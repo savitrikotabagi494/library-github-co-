@@ -1,5 +1,4 @@
-# library-github-co-
-### made with github copilot
+# library management system-full stack implementation( made with github copilot)
 <img width="1243" height="632" alt="Screenshot 2026-05-18 105937" src="https://github.com/user-attachments/assets/95213463-37ed-44b3-9b5f-dfc05af5bb7b" />
 <img width="1219" height="580" alt="Screenshot 2026-05-18 110006" src="https://github.com/user-attachments/assets/7e3944f1-cc80-4d7b-a93a-54f7c4f786f3" />
 <img width="499" height="480" alt="Screenshot 2026-05-18 110029" src="https://github.com/user-attachments/assets/83da1064-e9c5-4243-aca8-c0a2a56b57b9" />
